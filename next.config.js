@@ -9,5 +9,6 @@ module.exports = {
         pathname: "/my-account/**",
       },
     ],
+    domains: ['www.datocms-assets.com'],
   },
 };
